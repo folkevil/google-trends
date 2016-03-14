@@ -1,7 +1,7 @@
 {
-    "name": "jonasva/google-trends",
+    "name": "folkevil/google-trends",
     "description": "Unofficial Google Trends PHP API",
-    "homepage": "http://github.com/jonasva/google-trends",
+    "homepage": "http://github.com/folkevil/google-trends",
     "keywords": ["google", "trends", "api"],
     "license": "MIT",
     "authors": [
@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "guzzlehttp/guzzle": "5.0.*@dev"
+        "guzzlehttp/guzzle": "*"
     },
     "autoload": {
         "psr-0": {
